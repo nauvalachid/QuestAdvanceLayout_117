@@ -28,7 +28,7 @@ import androidx.compose.ui.unit.dp
 @Preview(showBackground = true)
 
 @Composable
-fun ColumnRow(
+fun BelajarLayout(
     modifier: Modifier = Modifier
 ) {
     Column(
